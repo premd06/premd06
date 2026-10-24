@@ -1,18 +1,20 @@
-# Hi, I'm Prem Dave
+# hey, I'm Prem
 
-Realtor in the GTA (Brampton & Caledon) and computer science student building tools for my business and my portfolio.
+I'm a realtor in the GTA (Brampton + Caledon) and a CS student. I build stuff for my real estate work and to get better at programming, and most of it ends up here.
 
-## Projects
+## things I've built
 
-- **[davehomes.ca](https://davehomes.ca)** — Pre-construction platform for my homebuyer clients: 30+ townhome and detached projects across the GTA, Niagara, and Kitchener-Waterloo-Cambridge, with an interactive project map, 10 years of market data, and a mortgage calculator. Built with HTML, CSS, and vanilla JavaScript.
+**[davehomes.ca](https://davehomes.ca)** — a site I made for my homebuyer clients. 30+ pre-construction townhouse and detached projects across the GTA, Niagara, and Kitchener-Waterloo-Cambridge, with a map of all the projects, 10 years of home price data, and a mortgage calculator. Plain HTML, CSS, and JavaScript, no framework. I built it because I was answering the same buyer questions over and over.
 
-- **[SEO & Performance Analytics Dashboard](https://github.com/premd06/seo-dashboard)** — Full-stack dashboard tracking my production website's performance and SEO health: Python collector (Google PageSpeed Insights API) → SQLite → Node.js/Express REST API → React frontend.
+**[seo-dashboard](https://github.com/premd06/seo-dashboard)** — a dashboard that tracks how my website is performing (speed scores, SEO checks, that kind of thing). A Python script pulls the data from Google's PageSpeed API into SQLite, a Node/Express API serves it, and a React page displays it. This was my first real frontend + backend project.
 
-## Tech I work with
+**[halal-eats](https://github.com/premd06/halal-eats)** — what I'm working on now. A finder for halal restaurants in the GTA that shows how halal a place actually is — certified, full menu, or just some options. React + Leaflet. Building it in small commits as I go.
 
-HTML · CSS · JavaScript · React · Node.js · Express · Python · REST APIs · SQLite · Git & GitHub
+## stuff I use
 
-## Get in touch
+HTML, CSS, JavaScript, React, Node.js, Express, Python, REST APIs, SQLite, Git/GitHub
 
-- Real estate: premdave.realestate@gmail.com · 647-739-7242
-- Instagram: [@Dave.estates](https://www.instagram.com/Dave.estates)
+## reach me
+
+Real estate: premdave.realestate@gmail.com · 647-739-7242
+Instagram: [@Dave.estates](https://www.instagram.com/Dave.estates)
