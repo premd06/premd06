@@ -12,6 +12,8 @@
 🏠 Realtor in Brampton + Caledon with HomeLife/Miracle Realty
 🔨 Currently building [MiracleDesk](https://github.com/premd06/miracledesk), a dashboard for the realtors at my brokerage
 
+Computer Science student at Toronto Metropolitan University + Minoring in Cyber Studies. Also a realtor in the GTA. Currently building MiracleDesk, a dashboard for the realtors at my brokerage.
+
 ---
 
 ## Highlighted Projects
@@ -28,18 +30,6 @@ Realtors log their deals and the app does the commission math: gross, referral f
 
 ---
 
-### [seo-dashboard](https://github.com/premd06/seo-dashboard) — Website Performance Dashboard
-
-Tracks how davehomes.ca is doing: PageSpeed scores, SEO checks, that kind of thing. A Python script pulls data from Google's PageSpeed API into SQLite, a Node/Express API serves it, and a React page displays it. This was my first real frontend + backend project.
-
----
-
-### [halal-eats](https://github.com/premd06/halal-eats) — GTA Halal Restaurant Finder (on pause)
-
-A finder that shows how halal a place actually is: certified, full halal menu, or just some halal options, with the basis and the last date I verified it. React + Leaflet. On pause while I build MiracleDesk.
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -49,6 +39,8 @@ A finder that shows how halal a place actually is: certified, full halal menu, o
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -56,12 +48,8 @@ A finder that shows how halal a place actually is: certified, full halal menu, o
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-
-### Data & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -84,7 +72,6 @@ A finder that shows how halal a place actually is: certified, full halal menu, o
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daveprem06)
-[![Email](https://img.shields.io/badge/premdave.realestate@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premdave.realestate@gmail.com)
-[![Instagram](https://img.shields.io/badge/@Dave.estates-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Dave.estates)
+[![Email](https://img.shields.io/badge/daveprem06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daveprem06@gmail.com)
 
 </div>
