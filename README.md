@@ -6,11 +6,7 @@
 
 ---
 
-[![Website](https://img.shields.io/badge/davehomes.ca-5F7F6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davehomes.ca)
 
-🎓 CS student at Toronto Metropolitan University
-🏠 Realtor in Brampton + Caledon with HomeLife/Miracle Realty
-🔨 Currently building [MiracleDesk](https://github.com/premd06/miracledesk), a dashboard for the realtors at my brokerage
 
 Computer Science student at Toronto Metropolitan University + Minoring in Cyber Studies. Also a realtor in the GTA. Currently building MiracleDesk, a dashboard for the realtors at my brokerage.
 
