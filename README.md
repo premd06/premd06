@@ -1,6 +1,6 @@
 <!-- Typing SVG banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5F7F6E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prem;CS+student+%2B+realtor+in+the+GTA;Building+tools+I+actually+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5F7F6E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prem;CS+student+%2B+in+TMU;Building+tools+I+actually+use." alt="Typing SVG" />
   <br/>
 </div>
 
